@@ -1,4 +1,4 @@
-# 1. Well REST API 
+# 1. Well REST Api
 
 ![](https://wdd.js.org/images/20180607225013_Kuay0l_content_rest_api_design.jpeg)
 
